@@ -1,2 +1,59 @@
-# Projeto
-Site História De Ceará-Mirim
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>História de Ceará-Mirim</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="shortcut icon" href="../Imagens e Vídeo/fav.png" type="image/x-icon">
+</head>
+<body>
+
+  <header>
+    <img src="../Imagens e Vídeo/fav.png" alt="Logo de Ceará-Mirim" width="180px">
+    <h1><b>História de Ceará-Mirim</b></h1>
+    <p>Município Potiguar Rico em Cultura e Tradição</p>
+  </header>
+
+<nav>
+    <a href="início.html" class="menu-item has-children" aria-haspopup="true">Início</a>
+    <a href="historia.html" class="menu-item has-children" aria-haspopup="true">História</a>
+    <a href="engenho.html" class="menu-item has-children" aria-haspopup="true">Engenhos</a>
+    <a href="cultura.html" class="menu-item has-children" aria-haspopup="true">Cultura</a>
+    <a href="quiz.html" class="menu-item has-children" aria-haspopup="true">Quiz</a>
+  </nav>
+
+  <main>
+    <section id="cultura">
+      <h2>Cultura de Ceará-Mirim</h2>
+      <p>
+        A cultura de Ceará-Mirim é marcada por suas <b>tradições populares</b>, <b>festas religiosas</b>, <b>manifestações folclóricas</b>,
+        e também pela memória dos engenhos, que influenciou a arte, a culinária e os costumes locais.
+      </p>
+    </section>
+
+    <section id="festas">
+      <h2>Festas e Tradições Populares</h2>
+      <p>
+        <b>Festa da Padroeira – Nossa Senhora da Conceição:</b><br>
+        Realizada em dezembro, é a festa religiosa mais importante da cidade. Inclui missas, procissões, novenas, shows e feiras populares.
+      </p>
+    </section>
+
+    <section id="culinaria">
+      <h2>Culinária Típica</h2>
+      <ul>
+        <li>Rapadura, mel de engenho e bolo de milho são tradicionais por causa dos engenhos.</li>
+        <li>Outros pratos típicos: macaxeira com carne de sol, tapioca, mugunzá, arroz doce e cuscuz.</li>
+      </ul>
+    </section>
+
+    <section id="literatura">
+      <h2>Literatura e Personalidades</h2>
+      <ul>
+        <li>Ceará-Mirim foi berço de João Batista Cascudo Rodrigues, pai do folclorista Luís da Câmara Cascudo.</li>
+        <li>Há uma tradição oral muito forte: contos, causos, lendas e histórias passadas entre gerações.</li>
+      </ul>
+    </section>
+
+    <section id="patrimon
